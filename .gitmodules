@@ -1,0 +1,4 @@
+[submodule "ClassLibrary1"]
+	path = ClassLibrary1
+	url = C:/Users/alexb/source/repos/ClassLibrary1
+	branch = master
